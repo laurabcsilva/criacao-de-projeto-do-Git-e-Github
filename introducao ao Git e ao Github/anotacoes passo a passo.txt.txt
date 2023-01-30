@@ -1,0 +1,31 @@
+caracteristicas do Git e Github que sao necessarias conhecer 
+1. controle de versao 
+2. armazenamento  em nuvem 
+3. trabalhoo em equipe 
+4. melhorar seu codigo
+5. reconhecimento 
+
+primeiro passo é organizar seus estudos no repositorio
+- repository name- description- public- add readme
+
+code- HTTPS- clonar 
+
+"edit file"
+ abrir o Gitbash na pasta criada 
+- git clone - colar o code do repositorio 
+
+Editar no arquivo README.md
+cd (repositorio)
+git status 
+
+Criar pastas de conteudo vistos na Dio
+anotacoes.txt
+exemplos como links- informacoes etc...
+
+git status (pasta nova)
+git add.
+git status (pasta anexada)
+git commit -m "inclusao do desafio do projeto passo a passo.txt"
+git push origin main ou master
+
+e para finalizar e conceder um link apareente em seu Github aperte (F5)
